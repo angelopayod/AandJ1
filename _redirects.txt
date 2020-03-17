@@ -1,1 +1,1 @@
-/thankyou/index
+/thankyou

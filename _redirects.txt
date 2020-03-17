@@ -1,1 +1,1 @@
-/thankyou/index.html
+/thankyou     /index.html
